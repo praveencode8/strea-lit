@@ -1,1 +1,1 @@
-# strea-lit
+# stream-lit
